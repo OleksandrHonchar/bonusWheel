@@ -1,0 +1,11 @@
+# Ignore artifacts:
+node_modules/
+.gitignore
+.DS_Store
+dist/
+
+README.md
+
+# IntelliJ related files
+.idea/**/*.*
+*.iml

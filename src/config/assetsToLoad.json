@@ -1,0 +1,9 @@
+{
+  "coins": "multimedia/images/coin-anim.json",
+  "background": "multimedia/images/background.png",
+  "glow": "multimedia/images/glow.png",
+  "sunburst": "multimedia/images/sunburst.png",
+  "wheelPointer": "multimedia/images/pointer.png",
+  "wheelCenter": "multimedia/images/wheel-center.png",
+  "wheelSlice": "multimedia/images/wheel-slice.png"
+}
