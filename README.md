@@ -1,4 +1,5 @@
 # Bonus Wheel test application
+https://oleksandrhonchar.github.io/bonusWheel/dist/
 
 ## Installation
 
